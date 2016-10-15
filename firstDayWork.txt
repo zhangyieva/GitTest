@@ -1,1 +1,5 @@
-This is the work of first day.
+git clone <url>
+git status
+git add -A <from workspace to stage>
+git commit -m "comment" <from stage to local repo>
+git push  <from local repo to remote repo> 
